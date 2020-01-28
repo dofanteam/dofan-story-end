@@ -68,10 +68,10 @@ body{
 }
 
 .time-axis-item:last-child .time-axis-date span{
-	border-color: #48BEB2;
+	border-color: rgba(70, 219, 249, 0.9);
 }
 
 .time-axis-item:last-child .time-axis-date span:after{
-	background-color: #48BEB2;
-	border-color: #48BEB2;
+	background-color: rgba(70, 219, 249, 0.9);
+	border-color: rgba(70, 219, 249, 0.9);
 }

@@ -27,6 +27,16 @@
             width: 100%;
             z-index: -1;
         }
+        .overlay2 {
+            background: url(../img/banner-3.jpg) no-repeat scroll center center;
+            opacity: .5;
+            height: 125%;
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            width: 100%;
+            z-index: -1;
+        }
         .blog_b_text {
             max-width: 700px;
             margin: auto;
